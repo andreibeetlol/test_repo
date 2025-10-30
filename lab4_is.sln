@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lifetime", "Lifetime\Lifeti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "observable_ceva", "observable_ceva\observable_ceva.csproj", "{30DC7956-2C9D-4CE0-8D29-B762AD8796A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "builder", "builder\builder.csproj", "{48299B7D-4ED0-41C5-BE62-6F24884BC937}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +26,10 @@ Global
 		{30DC7956-2C9D-4CE0-8D29-B762AD8796A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30DC7956-2C9D-4CE0-8D29-B762AD8796A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30DC7956-2C9D-4CE0-8D29-B762AD8796A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48299B7D-4ED0-41C5-BE62-6F24884BC937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48299B7D-4ED0-41C5-BE62-6F24884BC937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48299B7D-4ED0-41C5-BE62-6F24884BC937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48299B7D-4ED0-41C5-BE62-6F24884BC937}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
